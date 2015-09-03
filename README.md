@@ -1,5 +1,5 @@
 # String-class
-A complete implementation of the string class in C++. It was made for data structures course @FCI-CU, 2015. you may find that some functions' behavior aren't exactly the same as the
+A complete implementation of the string class in C++. It was made for data structures course @FCI-CU, 2015. you may find that some functions' behaviors aren't exactly the same as the
 standard string class in C++ as this project was implemented according to the description provided in the PDF file.
 
 Team members:
