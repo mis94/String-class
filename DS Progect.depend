@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1425240230 source:c:\users\osama\desktop\problems\ds progect\main.cpp
+	<iostream>
+	"String.h"
+
+1425237607 c:\users\osama\desktop\problems\ds progect\string.h
+	<iostream>
+
+1425240350 source:c:\users\osama\desktop\problems\ds progect\string.cpp
+	"String.h"
+
+1425240581 source:c:\users\mohamed\documents\egdownloads\ds progect\main.cpp
+	<iostream>
+	"String.h"
+
+1425292308 c:\users\mohamed\documents\egdownloads\ds progect\string.h
+	<iostream>
+
+1425240581 source:c:\users\mohamed\documents\egdownloads\ds progect\string.cpp
+	"String.h"
+
+1425307764 source:e:\fci\data structure(cs214)\data structure assignment 1\2nd submission\main.cpp
+	<iostream>
+	"String.h"
+
+1425292308 e:\fci\data structure(cs214)\data structure assignment 1\2nd submission\string.h
+	<iostream>
+
+1425240581 source:e:\fci\data structure(cs214)\data structure assignment 1\2nd submission\string.cpp
+	"String.h"
+
