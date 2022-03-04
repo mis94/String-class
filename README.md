@@ -3,5 +3,5 @@ A complete implementation of the string class in C++. It was made for data struc
 standard string class in C++ as this project was implemented according to the description provided in the PDF file.
 
 Team members:
-- Mohamed Ibrahim Saad (Github: mis94).
+- Mohamed Ibrahim Elsayed (Github: mis94).
 - Osama Fathy Ramadan (Github: OsamaFathy).
